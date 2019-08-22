@@ -13,7 +13,7 @@ pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0 ffmp
 sudo apt-get install python3
 sudo apt-get install pyhton3-tz
 sudo pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0 ffmpy youtube-dl pafy 
-```
+git clone https://github.com/virojano19/sbonly
 ### Edit your mid or token in
 ```
 me = LINE("YOUR TOKEN")
